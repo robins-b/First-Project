@@ -7,7 +7,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
 
 ## First Project
-- This is a Street style landing page designed using
+- This is a Street style landing page designed using HTML and CSS
 - [Deployed link](https://robin-project-1.vercel.app/)
 
 ## What I learned from this project
