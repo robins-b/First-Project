@@ -1,10 +1,10 @@
+## Screenshot
+![Project screenshot](./1.png)
+
 ## Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
-
-## Screenshot
-![Project screenshot](./1.png)
 
 ## First Project
 - This is a Street style landing page designed using
